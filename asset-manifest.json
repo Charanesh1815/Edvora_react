@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/edvora_react/static/css/main.cf62c62d.css",
+    "main.js": "/edvora_react/static/js/main.14a94771.js",
+    "static/js/787.31ef9cb0.chunk.js": "/edvora_react/static/js/787.31ef9cb0.chunk.js",
+    "static/media/logo.svg": "/edvora_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/edvora_react/index.html",
+    "main.cf62c62d.css.map": "/edvora_react/static/css/main.cf62c62d.css.map",
+    "main.14a94771.js.map": "/edvora_react/static/js/main.14a94771.js.map",
+    "787.31ef9cb0.chunk.js.map": "/edvora_react/static/js/787.31ef9cb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf62c62d.css",
+    "static/js/main.14a94771.js"
+  ]
+}
